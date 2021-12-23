@@ -143,7 +143,7 @@ Class SMS_Advertisement : SMS_BaseClass
 
  Unique user-friendly name for the advertisement.  
 
- `AssignedSchedule`  
+### `AssignedSchedule`  
  Data type: `SMS_ScheduleToken` Array  
 
  Access type: Read/Write  
